@@ -1,0 +1,2 @@
+Inicialmente se muestran imagenes del funcionamiento al terminar la instalación.
+Esto corresponde a los contenedores creados y a los procesos actualmente corriendo.
